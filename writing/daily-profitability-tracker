@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Why I Track Profitability Daily — Saam Rahim</title>
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #ffffff;
+      color: #111;
+      max-width: 700px;
+      margin: 60px auto;
+      padding: 0 20px;
+      line-height: 1.65;
+    }
+
+    h1 {
+      font-size: 1.6em;
+      font-weight: 600;
+      margin-bottom: 24px;
+    }
+
+    h2 {
+      font-size: 1.2em;
+      font-weight: 600;
+      margin-top: 48px;
+      margin-bottom: 16px;
+    }
+
+    p {
+      margin-bottom: 20px;
+    }
+
+    ul {
+      margin: 20px 0 20px 20px;
+    }
+
+    li {
+      margin-bottom: 10px;
+    }
+
+    a {
+      color: #000;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    hr {
+      margin: 60px 0;
+      border: 0;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+
+<body>
+
+  <a href="/">← Back to home</a>
+
+  <h1>Why I Track Profitability Daily (Not Monthly)</h1>
+
+  <p>Most e-commerce brands know their revenue every day.</p>
+
+  <p>Very few know their profit.</p>
+
+  <p>That gap is not a reporting issue—it’s an operating risk.</p>
+
+  <p>
+    Revenue is loud. Profit is quiet. And when you only look at profit monthly,
+    or “after the fact,” you’re not managing a business—you’re reviewing history.
+  </p>
+
+  <p>This is the problem my daily profitability tracker solves.</p>
+
+  <h2>The hidden cost of delayed feedback</h2>
+
+  <p>In most brands, profitability is reviewed:</p>
+
+  <ul>
+    <li>Monthly</li>
+    <li>After accounting closes</li>
+    <li>Aggregated beyond usefulness</li>
+  </ul>
+
+  <p>By the time a problem shows up, the damage is already done.</p>
+
+  <p>You may discover:</p>
+
+  <ul>
+    <li>A marketing channel quietly flipped from profitable to unprofitable</li>
+    <li>Shipping costs crept up and erased margin</li>
+    <li>Discounts compounded more than expected</li>
+    <li>Refunds spiked without visibility</li>
+  </ul>
+
+  <p>
+    None of these happen overnight—but without daily visibility, they compound unnoticed.
+  </p>
+
+  <p>Daily profit tracking collapses that feedback loop.</p>
+
+  <h2>What daily profitability actually tracks</h2>
+
+  <p>At its core, the tracker answers one question:</p>
+
+  <p><strong>“Did we make money today—and why?”</strong></p>
+
+  <p>Not in theory. In reality.</p>
+
+  <p>Each day is broken down into:</p>
+
+  <ul>
+    <li>Revenue</li>
+    <li>Ad spend</li>
+    <li>Cost of goods</li>
+    <li>Fulfillment and shipping</li>
+    <li>Platform fees</li>
+    <li>Discounts and refunds</li>
+  </ul>
+
+  <p>
+    The output is not just profit—but <strong>profit after marketing</strong>, margin,
+    and efficiency ratios that tell you whether today’s growth was healthy or hollow.
+  </p>
+
+  <p>This matters because most e-commerce decisions are made daily:</p>
+
+  <ul>
+    <li>Budget changes</li>
+    <li>Creative launches</li>
+    <li>Discounting</li>
+    <li>Inventory commitments</li>
+  </ul>
+
+  <p>You shouldn’t be making daily decisions using monthly data.</p>
+
+  <h2>Why this changes how you operate</h2>
+
+  <p>Once profit is visible daily, behavior changes.</p>
+
+  <p>You stop asking:</p>
+
+  <ul>
+    <li>“How much did we sell?”</li>
+  </ul>
+
+  <p>And start asking:</p>
+
+  <ul>
+    <li>“What kind of revenue was this?”</li>
+    <li>“What did it cost us to earn?”</li>
+    <li>“Is this scalable—or fragile?”</li>
+  </ul>
+
+  <p>It becomes immediately clear:</p>
+
+  <ul>
+    <li>Which days you’d want to repeat</li>
+    <li>Which spikes were artificial</li>
+    <li>Which channels are driving real contribution</li>
+    <li>When growth is being subsidized by margin</li>
+  </ul>
+
+  <p>
+    This is especially critical when scaling spend. Revenue can grow while profit
+    silently deteriorates. A daily tracker surfaces that drift early—before it becomes structural.
+  </p>
+
+  <h2>The compounding advantage</h2>
+
+  <p>Daily profit tracking is not about micromanagement.</p>
+
+  <p>It’s about <strong>discipline</strong>.</p>
+
+  <p>Over time, it allows you to:</p>
+
+  <ul>
+    <li>Calibrate ad spend with confidence</li>
+    <li>Catch margin erosion before it compounds</li>
+    <li>Pressure-test promotions in real time</li>
+    <li>Align inventory planning with actual contribution, not vanity growth</li>
+  </ul>
+
+  <p>
+    Most importantly, it creates a single source of truth between marketing, finance,
+    and operations.
+  </p>
+
+  <p>
+    When everyone is looking at the same daily scorecard, decisions get sharper—and excuses disappear.
+  </p>
+
+  <h2>Final thought</h2>
+
+  <p>Revenue tells you if the market is paying attention.</p>
+
+  <p>Profit tells you if your business deserves to exist.</p>
+
+  <p>
+    If you don’t know your profit daily, you’re operating with a delay—and in e-commerce,
+    delay is expensive.
+  </p>
+
+  <p>This tracker is how I remove that delay.</p>
+
+  <hr />
+
+  <p>
+    <a href="/">← Back to home</a>
+  </p>
+
+</body>
+</html>
