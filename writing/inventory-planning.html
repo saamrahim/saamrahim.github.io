@@ -17,14 +17,15 @@
     }
 
     h1 {
-      font-size: 1.8em;
+      font-size: 1.9em;
       font-weight: 600;
-      margin-bottom: 0.2em;
+      margin-bottom: 0.4em;
     }
 
     h2 {
-      font-size: 1.2em;
+      font-size: 1.25em;
       margin-top: 2.2em;
+      font-weight: 600;
     }
 
     p {
@@ -45,6 +46,12 @@
       margin-bottom: 40px;
       display: inline-block;
     }
+
+    hr {
+      margin: 60px 0;
+      border: 0;
+      border-top: 1px solid #ddd;
+    }
   </style>
 </head>
 
@@ -55,18 +62,226 @@
   <h1>How Much Inventory Should You Order?</h1>
 
   <p>
-    Inventory decisions are irreversible. Once you commit cash to product, you can’t unwind it the way you can pause ads or tweak pricing.
-    That’s why inventory planning quietly separates amateur operators from disciplined ones.
+    It sounds like a simple question.
+  </p>
+
+  <p>
+    It isn’t.
+  </p>
+
+  <p>
+    Inventory decisions are irreversible. Once you commit cash to product, you can’t unwind it the way you can pause ads
+    or tweak pricing. That’s why inventory planning quietly separates amateur operators from disciplined ones.
   </p>
 
   <p>
     Most businesses get this wrong not because they’re careless, but because they stop one layer too early.
+  </p>
+
+  <p>
     This is the framework I use.
   </p>
 
-  <!-- Paste the full blog post content here -->
-  <!-- Everything we wrote previously goes here, unchanged -->
+  <h2>Level 1: Coverage-Based Ordering</h2>
+
+  <p>
+    The most common answer to “how much should I order?” is:
+  </p>
+
+  <p>
+    <strong>“Enough for 90 days.”</strong>
+  </p>
+
+  <p>
+    That logic usually looks like this:
+  </p>
+
+  <p>
+    30 days to produce.<br>
+    30 days to ship.<br>
+    30 days of buffer for delays.
+  </p>
+
+  <p>
+    So you look at how much you sold in the last 30 days, multiply it by three, and place the order.
+  </p>
+
+  <p>
+    Some operators take this a step further and plan for <strong>days on hand on arrival</strong>. Instead of ordering
+    90 days of inventory, they order enough so that when the inventory arrives, they still have 90 days left—effectively
+    planning 150 days in advance.
+  </p>
+
+  <p>
+    This is conservative. It’s also clean.
+  </p>
+
+  <p>
+    And it works—until demand changes.
+  </p>
+
+  <h2>Level 2: Spend-Aware Forecasting</h2>
+
+  <p>
+    Now introduce growth.
+  </p>
+
+  <p>
+    Assume you spent $100 per day on ads over the last 30 days. Next month, you plan to spend $200 per day.
+  </p>
+
+  <p>
+    If you simply multiply last month’s sales by three, you will under-order.
+  </p>
+
+  <p>
+    Your coverage math was built for a $100/day business. You are now trying to operate a $200/day business with the same
+    inventory assumptions.
+  </p>
+
+  <p>
+    At this stage, many brands do the obvious thing: they multiply their order by the increase in spend.
+  </p>
+
+  <p>
+    That gets you closer.
+  </p>
+
+  <p>
+    But it still isn’t enough.
+  </p>
+
+  <p>
+    Because spend does not translate to sales in a straight line.
+  </p>
+
+  <h2>Level 3: Elasticity</h2>
+
+  <p>
+    This is where inventory planning stops being mechanical and starts being strategic.
+  </p>
+
+  <p>
+    If you double your ad spend, do your unit sales double?
+  </p>
+
+  <p>
+    Sometimes yes. Often no. Occasionally, they grow by more than 2×.
+  </p>
+
+  <p>
+    That relationship is <strong>elasticity</strong>.
+  </p>
+
+  <p>
+    Elasticity explains how sensitive your unit sales are to changes in marketing spend.
+  </p>
+
+  <p>
+    An elasticity of 1.0 means sales scale perfectly with spend.<br>
+    An elasticity of 0.6 means doubling spend only increases unit sales by 60%.<br>
+    An elasticity above 1.0 can happen during seasonal demand shifts or strong product-market fit.
+  </p>
+
+  <p>
+    The only honest way to estimate elasticity is to look at historical data—prior spend increases, corresponding unit
+    growth, and seasonal context.
+  </p>
+
+  <p>
+    If you’re early and don’t have clean data, this is where operator skill matters. You’re making an informed assumption,
+    not pretending the future is predictable.
+  </p>
+
+  <p>
+    At this point, your forecast is no longer just “last 30 days × time.” It’s last 30 days × <em>intent</em> ×
+    <em>response</em>.
+  </p>
+
+  <h2>Level 4: Demand Confidence</h2>
+
+  <p>
+    Even with spend and elasticity modeled, you are still making assumptions.
+  </p>
+
+  <p>
+    You’re assuming channels behave similarly, creative holds, conversion rates don’t collapse, and external conditions
+    stay stable.
+  </p>
+
+  <p>
+    This is where most models lie to themselves.
+  </p>
+
+  <p>
+    The final lever I use is <strong>demand confidence</strong>.
+  </p>
+
+  <p>
+    Demand confidence answers one question:
+  </p>
+
+  <p>
+    <strong>How much of this forecast am I actually willing to fund?</strong>
+  </p>
+
+  <p>
+    A confidence of 1.0 means you fully believe the future you’re modeling.<br>
+    A confidence of 0.8 means you believe it, but want margin for error.<br>
+    A confidence of 0.6 means you think it might happen—but you’re not paying full price for the risk.
+  </p>
+
+  <p>
+    This isn’t vibes. It’s capital discipline.
+  </p>
+
+  <p>
+    You are explicitly discounting your own optimism.
+  </p>
+
+  <h2>The Point Most People Miss</h2>
+
+  <p>
+    Inventory forecasting isn’t about predicting the future.
+  </p>
+
+  <p>
+    It’s about deciding <strong>which version of the future you’re willing to pay for today</strong>.
+  </p>
+
+  <p>
+    That’s why I separate maintenance inventory (what I need if nothing changes) from growth inventory (what I need if my
+    assumptions are right).
+  </p>
+
+  <p>
+    Blending those two is how businesses quietly overextend.
+  </p>
+
+  <p>
+    Separating them is how you stay solvent while still scaling.
+  </p>
+
+  <h2>The Real Takeaway</h2>
+
+  <p>
+    Most brands fail at inventory not because they lack data, but because they collapse reality, intent, assumptions, and
+    confidence into a single number.
+  </p>
+
+  <p>
+    Inventory deserves more respect than that.
+  </p>
+
+  <p>
+    When you treat it as a system—not a rule—you stop guessing and start making deliberate bets.
+  </p>
+
+  <p>
+    That’s the difference between running a store and operating a business.
+  </p>
+
+  <hr>
 
 </body>
 </html>
-
